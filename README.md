@@ -14,6 +14,7 @@ TeX ソースは private に管理し、この public リポジトリでは読�
 | `Python_and_Haskell.pdf` | Python と Haskell の役割分担についてのノート。Python を実験・可視化・データ処理の道具、Haskell を型・モデル・意味構造の道具として捉えています。 |
 | `type-thinking-tool.pdf` | 「思考ツールとしての型」についてのノート。`newtype`、代数的データ型、多相型、型クラス、phantom type、GADT などを、概念整理の観点から扱っています。 |
 | `Introduction_to_Haskell_modules.pdf` | Haskell の `module`、`import`、Cabal、`src/app` 構成、研究コードの資産化についてのノートです。 |
+| `category_theory_for_haskell.pdf` | プログラマが圏論ついてのどのように考えていけばよいかというノートです。 |
 
 ## Intended Audience
 
@@ -64,6 +65,7 @@ Python は、データ処理、可視化、統計処理、機械学習実験、�
 2. `Python_and_Haskell.pdf`
 3. `type-thinking-tool.pdf`
 4. `Introduction_to_Haskell_modules.pdf`
+5. `category_theory_for_haskell.pdf`
 
 まず Pythonist 向けの導入で Haskell の基本的な考え方を掴み、次に Python と Haskell の役割分担を読み、その後で型を思考ツールとして捉えるノートへ進むと読みやすいです。最後に、Haskell のモジュール・import・Cabal 構成を読むと、研究コードとして育てるための見通しが立ちます。
 
